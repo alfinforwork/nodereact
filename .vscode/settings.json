@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.myphp": "php",
+        "ostream": "cpp"
+    }
+}
